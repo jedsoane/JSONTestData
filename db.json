@@ -1,0 +1,61 @@
+{
+    "challenges":
+    [{
+    "accepted": false,
+    "cardImage": "1",
+    "completed": false,
+    "description": "TakePic2018-05-10T10:53:38+12:00",
+    "id": "00000000-0000-0000-0000-000000000002",
+    "reward": 20.00,
+    "summary": "LALALA",
+    "target": 3,
+    "timeAccepted": null,
+    "timeCompleted": null,
+    "timeEnd": "2045-09-24T22:53:00.000Z",
+    "timeLimit": null,
+    "timeStart": "1990-12-22T22:53:00.000Z",
+    "timeWindow": "fixed",
+    "type": "achievement",
+    "validFrom": "1990-12-22T22:53:00.000Z",
+    "validTo": "2045-09-24T22:53:00.000Z",
+    "version": 2
+    },
+    {
+    "accepted": false,
+    "cardImage": "1",
+    "completed": false,
+    "description": "This is a consecutive challenge1",
+    "id": "1c5958af-b927-11e7-b093-029a46bc6ca1",
+    "reward": 22.00,
+    "summary": "Overlap Challenge 1",
+    "target": 100,
+    "timeAccepted": null,
+    "timeCompleted": null,
+    "timeEnd": "2018-11-13T04:05:00.000Z",
+    "timeLimit": null,
+    "timeStart": "2017-11-10T04:05:00.000Z",
+    "timeWindow": "fixed",
+    "type": "step",
+    "validFrom": "2017-11-10T04:05:00.000Z",
+    "validTo": "2018-11-13T04:05:00.000Z",
+    "version": 1
+    }]
+    ,
+    
+    "transactions":
+    [{
+        "date": "2018-09-13T13:17:00.000Z",
+        "amount": 23.45,
+        "transactionDescription": "First transaction"
+    },
+    {
+        "date": "2018-10-01T06:43:00.000Z",
+        "amount": 3.00,
+        "transactionDescription": "Second transaction"
+    },
+    {
+        "date": "2018-10-02T12:00:00.000Z",
+        "amount": 233.10,
+        "transactionDescription": "Third transaction"
+    }]
+}
