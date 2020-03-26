@@ -1,61 +1,60 @@
 {
-    "challenges":
-    [{
-    "accepted": false,
-    "cardImage": "1",
-    "completed": false,
-    "description": "TakePic2018-05-10T10:53:38+12:00",
-    "id": "00000000-0000-0000-0000-000000000002",
-    "reward": 20.00,
-    "summary": "LALALA",
-    "target": 3,
-    "timeAccepted": null,
-    "timeCompleted": null,
-    "timeEnd": "2045-09-24T22:53:00.000Z",
-    "timeLimit": null,
-    "timeStart": "1990-12-22T22:53:00.000Z",
-    "timeWindow": "fixed",
-    "type": "achievement",
-    "validFrom": "1990-12-22T22:53:00.000Z",
-    "validTo": "2045-09-24T22:53:00.000Z",
-    "version": 2
-    },
-    {
-    "accepted": false,
-    "cardImage": "1",
-    "completed": false,
-    "description": "This is a consecutive challenge1",
-    "id": "1c5958af-b927-11e7-b093-029a46bc6ca1",
-    "reward": 22.00,
-    "summary": "Overlap Challenge 1",
-    "target": 100,
-    "timeAccepted": null,
-    "timeCompleted": null,
-    "timeEnd": "2018-11-13T04:05:00.000Z",
-    "timeLimit": null,
-    "timeStart": "2017-11-10T04:05:00.000Z",
-    "timeWindow": "fixed",
-    "type": "step",
-    "validFrom": "2017-11-10T04:05:00.000Z",
-    "validTo": "2018-11-13T04:05:00.000Z",
-    "version": 1
-    }]
-    ,
-    
-    "transactions":
-    [{
-        "date": "2018-12-04T13:17:00.000Z",
-        "amount": 111.11,
-        "transactionDescription": "Real API First transaction"
-    },
-    {
-        "date": "2018-11-23T06:43:00.000Z",
-        "amount": 39.99,
-        "transactionDescription": "Real API Second transaction"
-    },
-    {
-        "date": "2018-11-02T12:00:00.000Z",
-        "amount": 1234.56,
-        "transactionDescription": "Real API Third transaction"
-    }]
+	"photos":
+	[
+	    {
+	        "photoPath": "USA 001",
+	        "name": "Liberty",
+	        "description": "USA USA"  
+	    },
+	    {
+	        "photoPath": "USA 002",
+	        "name": "Central Park",
+	        "description": "Not a windy city"  
+	    },
+	    {
+	        "photoPath": "USA 003",
+	        "name": "Squirrel!",
+	        "description": "Niagara Falls"  
+	    },
+	    {
+	        "photoPath": "USA 004",
+	        "name": "Chicago",
+	        "description": "Yankee Foxtrot Hotel"  
+	    },
+	    {
+	        "photoPath": "USA 005",
+	        "name": "Nebraska",
+	        "description": "Very flat"  
+	    },
+	    {
+	        "photoPath": "USA 006",
+	        "name": "Aspens near Aspen",
+	        "description": "Which came first?"  
+	    },
+	    {
+	        "photoPath": "USA 007",
+	        "name": "Monument Valley",
+	        "description": "Monumental"  
+	    },
+	    {
+	        "photoPath": "USA 008",
+	        "name": "Chapel",
+	        "description": "Sedona architecture"  
+	    },
+	    {
+	        "photoPath": "USA 009",
+	        "name": "The Grand Canyon",
+	        "description": "One big hole"  
+	    },
+	    {
+	        "photoPath": "USA 010",
+	        "name": "Santa Barbara",
+	        "description": "One big palm"  
+	    },
+	    {
+	        "photoPath": "USA 011",
+	        "name": "San Francisco",
+	        "description": "Toronado bouncer"  
+	    }
+	]
 }
